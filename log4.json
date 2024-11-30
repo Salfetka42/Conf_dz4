@@ -1,0 +1,25 @@
+[
+    {
+        "command": "LOAD_CONST",
+        "A": 21,
+        "B": 810,
+        "bytes": "95ca000000"
+    },
+    {
+        "command": "READ_MEM",
+        "A": 27,
+        "bytes": "1b00000000"
+    },
+    {
+        "command": "SGN",
+        "A": 10,
+        "B": 400,
+        "bytes": "0a64000000"
+    },
+    {
+        "command": "WRITE_MEM",
+        "A": 28,
+        "B": 1013,
+        "bytes": "5cfd000000"
+    }
+]

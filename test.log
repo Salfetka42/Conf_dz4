@@ -1,0 +1,98 @@
+[
+    {
+        "command": "LOAD_CONST",
+        "A": 21,
+        "B": 0,
+        "bytes": "1500000000"
+    },
+    {
+        "command": "SGN",
+        "A": 10,
+        "B": 0,
+        "bytes": "0a00000000"
+    },
+    {
+        "command": "LOAD_CONST",
+        "A": 21,
+        "B": 7,
+        "bytes": "d501000000"
+    },
+    {
+        "command": "SGN",
+        "A": 10,
+        "B": 1,
+        "bytes": "4a00000000"
+    },
+    {
+        "command": "LOAD_CONST",
+        "A": 21,
+        "B": 0,
+        "bytes": "1500000000"
+    },
+    {
+        "command": "SGN",
+        "A": 10,
+        "B": 2,
+        "bytes": "8a00000000"
+    },
+    {
+        "command": "LOAD_CONST",
+        "A": 21,
+        "B": 4,
+        "bytes": "1501000000"
+    },
+    {
+        "command": "SGN",
+        "A": 10,
+        "B": 3,
+        "bytes": "ca00000000"
+    },
+    {
+        "command": "LOAD_CONST",
+        "A": 21,
+        "B": 2,
+        "bytes": "9500000000"
+    },
+    {
+        "command": "SGN",
+        "A": 10,
+        "B": 4,
+        "bytes": "0a01000000"
+    },
+    {
+        "command": "LOAD_CONST",
+        "A": 21,
+        "B": 0,
+        "bytes": "1500000000"
+    },
+    {
+        "command": "SGN",
+        "A": 10,
+        "B": 5,
+        "bytes": "4a01000000"
+    },
+    {
+        "command": "LOAD_CONST",
+        "A": 21,
+        "B": 8,
+        "bytes": "1502000000"
+    },
+    {
+        "command": "SGN",
+        "A": 10,
+        "B": 6,
+        "bytes": "8a01000000"
+    },
+    {
+        "command": "LOAD_CONST",
+        "A": 21,
+        "B": 5,
+        "bytes": "5501000000"
+    },
+    {
+        "command": "SGN",
+        "A": 10,
+        "B": 7,
+        "bytes": "ca01000000"
+    }
+]
